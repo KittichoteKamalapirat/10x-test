@@ -12,3 +12,4 @@ NextJS, React, Apollo client (GraphQL)
 
 NodeJS, PostgresQL, Apollo server (GraphQL)
 # 10x-test
+# partyharn
